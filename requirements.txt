@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+fastapi
+uvicorn
+plotly
+dash
+textblob
+python-dotenv
